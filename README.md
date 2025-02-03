@@ -2,6 +2,11 @@
 
 This repository contains the code for the AI and ML project.
 
+Run finalCode.py
+The other files are process python files
+The final results are in images t4_fig_1.png and t4_fig_2.png
+Get datasets from here: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
+
 What happens in the code, quick jist:
 
 Load the dataset.
